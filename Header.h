@@ -1,0 +1,3 @@
+#define	BEGIN_HEADER	"%%BEGIN_HEADER"
+#define	END_HEADER		"%%END_HEADER"
+

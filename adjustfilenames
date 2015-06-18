@@ -1,0 +1,15 @@
+mv makefile			Makefile
+mv drawtrack.c			DrawTrack.c
+mv entrancecalculations.c	EntranceCalculations.c
+mv getline.c			GetLine.c
+mv gettrack.c			GetTrack.c
+mv header.h			Header.h
+mv instruct.c			Instruct.c
+mv openpsfile.c			OpenPSFile.c
+mv polarcalculations.c		PolarCalculations.c
+mv postscript.h			Postscript.h
+mv readheader.c			ReadHeader.c
+mv track.h			Track.h
+mv trackanalysis.c		TrackAnalysis.c
+mv trackhandler.c		TrackHandler.c
+mv utilities.c			Utilities.c
